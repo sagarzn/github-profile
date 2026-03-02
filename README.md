@@ -31,7 +31,8 @@ I specialize in writing clean, maintainable code, crafting responsive digital ex
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
-![Themes & Templates](https://img.shields.io/badge/Themes-Design-red?style=for-the-badge)
+![Plugins](https://img.shields.io/badge/Plugins-007ACC?style=for-the-badge)
+
 
 ### ☁️ Hosting & Cloud  
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
