@@ -1,12 +1,12 @@
 # 🚀 Sagar Jain  
 
-## 👨‍💻 Web Developer | Frontend Engineer | Problem Solver  
+## 👨‍💻 Web Developer | Frontend & Backend Engineer | Problem Solver  
 
 Hi there! 👋  
 
-I'm a passionate **Web Developer with 2.5+ years of professional experience** building fast, scalable, and user-focused web applications.
+I'm a passionate **Web Developer with 2.5+ years of experience in WordPress and 9 months in Shopify**, building **fast, scalable, and user-focused web applications**.  
 
-I specialize in writing clean, maintainable code and crafting responsive digital experiences that deliver performance and usability.
+I specialize in writing clean, maintainable code, crafting responsive digital experiences, and integrating platforms, APIs, and third-party services to deliver real-world solutions.
 
 ---
 
@@ -19,16 +19,10 @@ I specialize in writing clean, maintainable code and crafting responsive digital
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI/UX-Focused-purple?style=for-the-badge)
 
-### ⚙️ Backend  
+### ⚙️ Backend & Database  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-
-### 🔧 Tools & Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Debugging](https://img.shields.io/badge/Debugging-Expert-green?style=for-the-badge)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🌐 CMS, E-Commerce & Builders  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -39,6 +33,27 @@ I specialize in writing clean, maintainable code and crafting responsive digital
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![Themes & Templates](https://img.shields.io/badge/Themes-Design-red?style=for-the-badge)
 
+### ☁️ Hosting & Cloud  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-F37021?style=for-the-badge)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-7AC142?style=for-the-badge)
+![Namecheap](https://img.shields.io/badge/Namecheap-FF9900?style=for-the-badge)
+![SiteGround](https://img.shields.io/badge/SiteGround-0086D1?style=for-the-badge)
+![Hostinger](https://img.shields.io/badge/Hostinger-FF5722?style=for-the-badge)
+![Bluehost](https://img.shields.io/badge/Bluehost-003366?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ⚡ Automation & Integrations  
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-FF7800?style=for-the-badge&logo=zoho&logoColor=white)
+
+### 💳 Payments  
+![Razorpay](https://img.shields.io/badge/Razorpay-0ABAB5?style=for-the-badge&logo=razorpay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+
 ---
 
 ## 💼 What I Do  
@@ -46,11 +61,12 @@ I specialize in writing clean, maintainable code and crafting responsive digital
 ✔️ Custom Web Application Development  
 ✔️ Responsive & Mobile-First Interfaces  
 ✔️ Clean & Maintainable Code Architecture  
-✔️ Performance Optimization  
+✔️ Performance Optimization & Debugging  
 ✔️ Form Validation & Third-Party Integrations  
 ✔️ API Integration & E-Commerce Logic  
-✔️ CMS & Platform Customization (WordPress, Shopify, Webflow, Wix)  
-✔️ Website Deployment & Hosting (Netlify, cPanel, Cloud)  
+✔️ CMS & Platform Customization  
+✔️ Website Deployment & Hosting  
+✔️ DNS Configuration & Domain Management  
 
 ---
 
@@ -58,7 +74,7 @@ I specialize in writing clean, maintainable code and crafting responsive digital
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://img.shields.io/badge/GitHub-Top%20Languages-dark?style=for-the-badge)
 
 ---
 
