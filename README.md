@@ -1,6 +1,6 @@
 # 🚀 Sagar Jain  
 
-## 👨‍💻 Web Developer | Frontend & Backend Engineer | Problem Solver  
+## 👨‍💻 Web Developer | Frontend Specialist | Problem Solver  
 
 Hi there! 👋  
 
