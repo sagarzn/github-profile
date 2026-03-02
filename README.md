@@ -4,9 +4,9 @@
 
 Hi there! 👋  
 
-I'm a passionate WordPress Developer with 2.5 years of experience building high-performance, responsive, and conversion-focused websites.
+I'm a results-driven **Web Developer with 2.5 years of professional experience** building high-performance, responsive, and conversion-focused websites.
 
-I specialize in turning business ideas into fast, scalable, and SEO-friendly WordPress solutions.
+I specialize in transforming business ideas into **fast, scalable, and SEO-optimized web solutions** using modern frontend technologies and powerful CMS platforms.
 
 ---
 
