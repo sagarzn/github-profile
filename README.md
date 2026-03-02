@@ -4,9 +4,9 @@
 👨‍💻 WordPress Developer | Frontend Specialist | Performance Optimizer
 
 Hi there! 👋
-I'm a passionate WordPress Developer with 2.5 years of experience** building high-performance, responsive, and conversion-focused websites.
+I'm a passionate Web Developer with 2.5 years of experience building high-performance, responsive, and conversion-focused websites.
 
-I specialize in turning business ideas into fast, scalable, and SEO-friendly WordPress solutions.
+I specialize in turning business ideas into fast, scalable, and SEO-friendly WordPress & Shopify solutions.
 
 
 🛠️ Tech Stack
@@ -35,11 +35,11 @@ I specialize in turning business ideas into fast, scalable, and SEO-friendly Wor
 
 💼 What I Do
 
-✔️ Custom WordPress Website Development
+✔️ Custom WordPress & Shopify Website Development
 ✔️ Theme Customization & Bug Fixing
 ✔️ Custom CSS & JavaScript Implementation
 ✔️ Speed Optimization (Core Web Vitals)
-✔️ Form Integrations (Typeform, Forminator, etc.)
+✔️ Form Integrations (Gravity, Fluent, Forminator, Typeform etc.)
 ✔️ WooCommerce Setup & Customization
 ✔️ Landing Page Development
 ✔️ Hosting & Domain Setup (Hostinger, GoDaddy, etc.)
@@ -54,8 +54,6 @@ I specialize in turning business ideas into fast, scalable, and SEO-friendly Wor
 ```md
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 ```
-
-👉 Replace `YOUR_USERNAME` with your actual GitHub username.
 
 
 🌟 Featured Projects
