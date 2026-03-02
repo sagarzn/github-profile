@@ -1,33 +1,58 @@
-# 🚀 Sagar Jain  
+---
 
-## 👨‍💻 Web Developer | Frontend Engineer | Problem Solver  
+## 💼 What I Do  
 
-Hi there! 👋  
-
-I'm a passionate **Web Developer with 2.5+ years of professional experience** building fast, scalable, and user-focused web applications.
-
-I specialize in writing clean, maintainable code and crafting responsive digital experiences that deliver performance and usability.
+✔️ Custom Web Application Development  
+✔️ Responsive & Mobile-First Interfaces  
+✔️ Clean & Maintainable Code Architecture  
+✔️ Performance Optimization  
+✔️ Form Validation & Business Logic Implementation  
+✔️ API Integration  
+✔️ Website Deployment & Version Control  
 
 ---
 
-## 🛠️ Tech Stack  
+## 📊 GitHub Stats  
 
-### 💻 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI/UX-Focused-purple?style=for-the-badge)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-### ⚙️ Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-### 🔧 Tools & Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-Expert-green?style=for-the-badge)
+---
 
-### 🌐 CMS & Platforms  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+## 🌟 Featured Projects  
+
+### 🔹 Interactive Landing Page  
+- Fully responsive design  
+- Custom JavaScript interactions  
+- Optimized for performance & accessibility  
+
+### 🔹 Form Validation System  
+- Advanced client-side validation  
+- Business email filtering logic  
+- Clean modular JavaScript structure  
+
+### 🔹 Custom Web Tool  
+- Dynamic DOM manipulation  
+- API data fetching  
+- Optimized user experience  
+
+---
+
+## 🎯 Currently Learning  
+
+- Advanced JavaScript (ES6+)  
+- Data Structures & Algorithms  
+- Modern Frontend Architectures  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+---
+
+💡 *I enjoy solving real-world problems through code and continuously improving my technical depth as a developer.* 🚀
