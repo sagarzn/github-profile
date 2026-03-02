@@ -73,14 +73,6 @@ I specialize in transforming business ideas into **fast, scalable, and SEO-optim
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarzn&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarzn&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sagarzn&theme=radical)---
-
 ## 🌟 Featured Projects  
 
 ### 🔹 Interactive Landing Page  
