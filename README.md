@@ -4,9 +4,9 @@
 
 Hi there! 👋  
 
-I'm a passionate **Web Developer with 2.5+ years of experience in WordPress and 9 months in Shopify**, building **fast, scalable, and user-focused web applications**. 
+I'm a passionate WordPress Developer with 2.5 years of experience building high-performance, responsive, and conversion-focused websites.
 
-I specialize in writing clean, maintainable code, crafting responsive digital experiences, and integrating platforms, APIs, and third-party services to deliver real-world solutions.
+I specialize in turning business ideas into fast, scalable, and SEO-friendly WordPress solutions.
 
 ---
 
