@@ -4,7 +4,7 @@
 
 Hi there! 👋  
 
-Web Developer with 3+ years of experience specializing in WordPress and Shopify development. Skilled in building high-performance, conversion-focused websites with strong API integrations and scalable architecture. Passionate about clean code, performance optimization, and delivering measurable business results.**.  
+I'm a passionate **Web Developer with 2.5+ years of experience in WordPress and 9 months in Shopify**, building **fast, scalable, and user-focused web applications**. 
 
 I specialize in writing clean, maintainable code, crafting responsive digital experiences, and integrating platforms, APIs, and third-party services to deliver real-world solutions.
 
