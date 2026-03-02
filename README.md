@@ -1,46 +1,45 @@
 # 🚀 Sagar Jain  
 
-## 👨‍💻 Web Developer | Frontend Specialist | Performance Optimizer  
+## 👨‍💻 Web Developer | Frontend Engineer | Problem Solver  
 
 Hi there! 👋  
 
-I'm a results-driven **Web Developer with 2.5 years of professional experience** building high-performance, responsive, and conversion-focused websites.
+I'm a passionate **Web Developer with 2.5+ years of professional experience** building fast, scalable, and user-focused web applications.
 
-I specialize in transforming business ideas into **fast, scalable, and SEO-optimized web solutions** using modern frontend technologies and powerful CMS platforms.
+I specialize in writing clean, maintainable code and crafting responsive digital experiences that deliver performance and usability.
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🌐 CMS & E-Commerce  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
-### 💻 Frontend Development  
+### 💻 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI/UX-Focused-purple?style=for-the-badge)
 
-### ⚙️ Backend & Tools  
+### ⚙️ Backend  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Workflow  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-Expert-green?style=for-the-badge)
 
 ---
 
 ## 💼 What I Do  
 
-✔️ Custom Website Development  
-✔️ Responsive & Mobile-First Design  
-✔️ CMS Development (WordPress & Shopify)  
-✔️ E-Commerce Development  
-✔️ Custom CSS & JavaScript Implementation  
-✔️ Website Speed Optimization (Core Web Vitals)  
-✔️ Form Integrations & API Connections  
-✔️ Hosting, Deployment & Domain Configuration  
+✔️ Custom Web Application Development  
+✔️ Responsive & Mobile-First Interfaces  
+✔️ Clean & Maintainable Code Architecture  
+✔️ Performance Optimization  
+✔️ Form Validation & Business Logic Implementation  
+✔️ API Integration  
+✔️ Website Deployment & Version Control  
 
 ---
 
@@ -54,23 +53,28 @@ I specialize in transforming business ideas into **fast, scalable, and SEO-optim
 
 ## 🌟 Featured Projects  
 
-### 🔹 Business Website Development  
-- Built fully responsive custom website  
-- Implemented advanced form validation logic  
-- Improved Lighthouse performance score significantly  
+### 🔹 Interactive Landing Page  
+- Fully responsive design  
+- Custom JavaScript interactions  
+- Optimized for performance & accessibility  
 
-### 🔹 E-Commerce Store  
-- Payment gateway integration  
-- Custom checkout functionality  
-- Optimized product pages for better conversions  
+### 🔹 Form Validation System  
+- Advanced client-side validation  
+- Business email filtering logic  
+- Clean modular JavaScript structure  
+
+### 🔹 Custom Web Tool  
+- Dynamic DOM manipulation  
+- API data fetching  
+- Optimized user experience  
 
 ---
 
 ## 🎯 Currently Learning  
 
-- Advanced JavaScript Concepts  
-- Headless CMS Architecture  
-- React Fundamentals  
+- Advanced JavaScript (ES6+)  
+- Data Structures & Algorithms  
+- Modern Frontend Architectures  
 
 ---
 
@@ -82,4 +86,4 @@ I specialize in transforming business ideas into **fast, scalable, and SEO-optim
 
 ---
 
-💡 *I enjoy solving complex frontend challenges and optimizing websites for performance, scalability, and user experience.* 🚀
+💡 *I enjoy solving real-world problems through code and continuously improving my technical depth as a developer.* 🚀
