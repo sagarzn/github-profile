@@ -1,4 +1,3 @@
-# github-profile
 🚀 Sagar Jain
 
 👨‍💻 WordPress Developer | Frontend Specialist | Performance Optimizer
